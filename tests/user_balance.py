@@ -1,0 +1,2 @@
+class TestUserBalance:
+    pass
